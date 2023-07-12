@@ -1,7 +1,7 @@
 # zsh-powerline
 
 Powerline for Zsh in pure Zsh script. See also
-[bash-powerline](https://github.com/riobard/bash-powerline/).
+[bash-powerline](https://github.com/jmhayes3/bash-powerline/).
 
 ## Installation
 
